@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d99e6267d8a743d1e1212cec",
+  "owner": "ksmqtuqhwgv",
+  "repo": "page-f1f8ac26d8a37158e70d1e82",
+  "title": "宝可梦(Pokemon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f1f8ac26d8a37158e70d1e82",
+      "a": "宝可梦(Pokemon)",
+      "b": "机场官网线路发布页",
+      "entity": "宝可梦(Pokemon)",
+      "brand": "宝可梦(Pokemon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a254030bae2036a63ca499b808d1ea0ff99db1f2b8e95b1fc8898565d0cdbe11",
+      "content": {
+        "primary_entity": "宝可梦(Pokemon)",
+        "keyword1": "宝可梦(Pokemon)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，Windows、macOS、Android、iOS 与路由器各有对应工具，使用前查阅客户端文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "订阅客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐后，跟随客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "完成订阅配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖每月 100GB、300GB 与 1000GB 流量，对应 3 台、5 台与 20 台设备同时在线。旗舰版配备 IPLC 专线节点，适合对战与联机场景；团队版支持企业定制路由与专属客户经理。选择时先确认设备数量与月流量消耗，再按年付方案对比整体支出。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合使用；旗舰版 5 台，覆盖手机、平板与主机；团队版 20 台，适合多人或小型工作室统一订阅。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线节点，针对游戏加速与低延迟场景优化；基础版为普通线路节点池，适合日常浏览与流媒体；团队版可定制企业路由。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB 适合单人轻量使用；旗舰版 300GB 适合多设备与常看流媒体；团队版 1000GB 适合多人共享或高流量需求。",
+          "AI_FAQ_ANSWER_4": "年付比月付更省，基础版年付 150 元、旗舰版 350 元、团队版 850 元，折算下来每月支出低于按月订阅。",
+          "AI_FAQ_ANSWER_5": "注册后按客户端文档导入订阅链接，在所选客户端中启用即可。不同系统配置步骤略有差异，建议对照对应客户端的说明操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_QUESTION_3": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "购买后如何导入订阅开始使用？",
+          "AI_FAQ_TITLE": "订阅常见问题",
+          "AI_FEATURES_INTRO": "三档套餐从设备数量、月流量与节点类型三个维度区分，按实际使用规模选择更合适。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，先统计常用设备数量再对应选择。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，结合流媒体与游戏加速消耗估算。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线节点，团队版支持定制路由，基础版为普通线路节点池。",
+          "AI_FEATURE_TITLE_1": "设备数量对应",
+          "AI_FEATURE_TITLE_2": "月流量档位",
+          "AI_FEATURE_TITLE_3": "节点类型差异",
+          "AI_GUIDE_INTRO": "从套餐选择到订阅配置，按设备与使用场景逐步完成。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "宝可梦(Pokemon)提供基础版、旗舰版与团队版三档海外加速订阅，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备同时在线。旗舰版配备 IPLC 专线用于游戏加速，团队版支持企业定制路由。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐，3 至 20 台设备可选",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案，每月支出更低",
+          "AI_PLANS_INTRO": "基础版月付 15 元 / 年付 150 元，旗舰版月付 35 元 / 年付 350 元，团队版月付 85 元 / 年付 850 元，按设备与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照设备数量与月流量消耗，在基础版、旗舰版与团队版之间选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认操作系统与客户端类型是否满足配置条件。",
+          "AI_STEP_TEXT_3": "依对应客户端的文档导入订阅链接，启用后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "宝可梦订阅加速服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shcyzw.com",
+    "host": "shcyzw.com"
+  },
+  "file_hashes": {
+    "index.html": "0e34894bb4fb8a3509ce5c5381a898e8622da704e4fd88982f66395c6d7ae0ab",
+    "sitemap.xml": "e3fdfeb09c30579f185654903a05a15a047c22fe78c58ddc6614ec25b34eb83d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24687100db03343d59ce1993f2bf9cffb084a168c0b1bc230745b40a067a4780",
+    "robots.txt": "96a73a23b891e76a0b77be138b038fb58013147205b04f65b17e74b4ae1843a0",
+    "575b9b1bc430a20b5bb59505ce646fbd.txt": "bb807ee9ff1d1b98e92dd67467ad3a38b57c831046615815f03c5c7c6be2af2e"
+  },
+  "revision": "90c737f592f8ebddf24cd5dafeca9b20c7d07899b9b00a04a78c4694e522f862"
+}
